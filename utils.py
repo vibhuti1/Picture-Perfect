@@ -1,3 +1,6 @@
+
+__author__ = "Vibhuti Gajinkar, Archita Gupta, and Shreya Nair"
+__credits__ = ["Vibhuti Gajinkar, Archita Gupta, and Shreya Nair"]
 from flask import Flask, render_template, redirect, url_for, send_from_directory, request
 from flask_bootstrap import Bootstrap
 from PIL import Image, ImageEnhance,ImageChops,ImageFilter, ImageOps
