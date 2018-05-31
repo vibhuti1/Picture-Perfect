@@ -27,8 +27,6 @@ Database Commands:
 3.CREATE TABLE images (user_name text references customer(username),  image_data bytea,"timestamp" time without time zone,  image_size integer,  id SERIAL primary key ) WITH ( OIDS=FALSE );
 
 Group Members:
-1. Shreya Nair [44775900]
-2. Archita Gupta [45137747]
-3.Vibhuti Gajinkar [45206698]
-
-
+1. Shreya Nair 
+2. Archita Gupta 
+3.Vibhuti Gajinkar
