@@ -1,3 +1,5 @@
+__author__ = " Archita Gupta, Shreya Nair and Vibhuti Gajinkar"
+__credits__ = [" Archita Gupta, Shreya Nair and Vibhuti Gajinkar"]
 from models import db, User, PremiumCustomer
 from forms import SignupForm, LoginForm, ForgotPassword
 from flask import Flask, url_for, render_template, request, redirect, session, send_from_directory, send_file, jsonify
